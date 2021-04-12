@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import styles from './styles-offerings.css'
 
-function App() {
+export default function offerings() {
   return (
     <div className="component-190">
       <div className="overlap-group">
