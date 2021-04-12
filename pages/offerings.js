@@ -1,5 +1,5 @@
 import Head from 'next/head'
-import styles from './styles-offerings.css'
+import styles from '../styles/Home.module.css'
 
 export default function offerings() {
   return (
